@@ -1,4 +1,4 @@
 # FAARM-impactpathwaysDDS-analysis
-Dataset and code for replication of the study, " Impact pathways of a homestead food production programme for women's dietary diversity in Bangladesh" by Lambrecht et al.
+Dataset and code for replication of the study, " Impact pathways of a homestead food production programme on women's dietary diversity in Bangladesh" by Lambrecht et al.
 
 A deidentified dataset with the individual participant response data that underlie the results reported in this article is available upon request. Interested researchers will need to provide a methodologically sound proposal for use of the data and sign a data access agreement to gain access to the data. The underlying individual response data are not publicly available due to privacy restrictions and their complexity. Data requests with a proposal should be directed to the corresponding author (Nathalie Lambrecht, nlambrec@stanford.edu) and the principal investigator (Sabine Gabrysch; sabine.gabrysch@charite.de). The FAARM trial protocol is available online.
